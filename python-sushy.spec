@@ -134,7 +134,7 @@ install -d -m 755 %{buildroot}%{_localstatedir}/log/%{sname}
 %doc doc/build/html README.rst
 
 %changelog
-* Mon Mar 20 2017 Lucas Alvares Gomes <lucasagomes@gmail.com> 0.1.0-1
-- Initial package.
 * Thu Dec 14 2017 Nathaniel Potter <nathaniel.potter@intel.com> 1.2.0-1
 - Update for fedora packaging.
+* Mon Mar 20 2017 Lucas Alvares Gomes <lucasagomes@gmail.com> 0.1.0-1
+- Initial package.
